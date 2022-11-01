@@ -19,7 +19,7 @@ body {
   .el {
     position: absolute;
     opacity: 1;
-    width: 1px;
+    width: 2px;
     height: 10vh;
     margin-top: -12vh;
     transform-origin: 50% 100%;
